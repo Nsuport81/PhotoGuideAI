@@ -1,0 +1,27 @@
+
+# Flutter/Dart defaults
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+Generated.xcconfig
+*.iml
+
+# IDEs
+.idea/
+*.swp
+*.swo
+*.log
+
+# macOS
+.DS_Store
+
+# Android Studio
+android/.gradle
+android/local.properties
+
+# iOS
+ios/Pods
+ios/Flutter/Flutter.framework
